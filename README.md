@@ -5,6 +5,7 @@ The  prediction  of  student  graduation  has  become  an  essential  component 
 
 **Keywords**: graduation prediction, academic performance, KNN algorithm, machine learning, student analytics 
 
+---
 
 ## Abstrak 
 Prediksi  kelulusan  mahasiswa  merupakan  salah  satu  aspek  penting  dalam  analisis  kinerja  akademik,  khususnya  untuk mengidentifikasi  faktor-faktor  yang  memengaruhi  keberhasilan  studi.  Penelitian  ini  bertujuan  untuk  membangun  model prediksi sederhana terhadap status kelulusan mahasiswa  menggunakan algoritma  K-Nearest Neighbor (KNN). Dataset  yang digunakan terdiri dari data akademik mahasiswa seperti Indeks Prestasi Kumulatif (IPK) dan jumlah Satuan Kredit Semester (SKS)  yang  telah  ditempuh.  Data  diolah  serta  dibagi  menjadi  data  latih  dan  data  uji  untuk  mengukur  kinerja  model. Algoritma  KNN  diuji  dengan  beberapa  nilai  K  (1,  3,  5,  7,  dan  9)  guna  memperoleh  hasil  klasifikasi  paling  optimal.  Hasil pengujian  menunjukkan  bahwa  nilai  K=3  memberikan  akurasi  tertinggi  sebesar  90%,  yang  menandakan  bahwa  algoritma KNN  mampu  melakukan  klasifikasi  secara  efektif  berdasarkan  pencapaian  akademik  mahasiswa.  Temuan  ini  menunjukkan bahwa  algoritma  KNN  dapat  digunakan  sebagai  alat  analisis  awal  dalam  memprediksi  potensi  kelulusan  mahasiswa  serta mendukung pengambilan keputusan dalam sistem manajemen akademik.  
